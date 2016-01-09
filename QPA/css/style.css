@@ -1,0 +1,35 @@
+#caption {font-family:verdana;
+	font-size:12px;
+	color:#558855;
+	font-weight:bold}
+#title {font-family:verdana;
+	font-size:14px;
+	font-weight:bold;
+	color:#885555}
+
+#supertitle {font-family:arial black;
+	font-size:16px;
+	color:#885599}
+body {font-family:verdana;
+	font-size:12px;
+	color:#444444;
+	
+	}
+td {font-family:verdana;
+	font-size:12px;
+	color:#444444;
+	border:1px solid #888888
+	}
+a:visited { color: #FF22FF}
+
+#td1{background-color:#dcdcdc}
+#tdguide{background-color:#FFFFCC}
+#tdtitle{background-color:#DDFFDD;
+	align='right'}
+
+#studentInfoTable {width:400px}
+
+#error	{font-family:verdana;
+	font-size:12px;
+	color:#ff0000;
+	font-weight:bold}
